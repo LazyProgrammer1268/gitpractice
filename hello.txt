@@ -1,6 +1,5 @@
-hello welocme 
-git practise 
-
+welcome to git practise session
+ 
 int a=10;
 int b=20;
 
