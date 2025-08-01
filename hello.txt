@@ -12,3 +12,7 @@ print statment
 method2(){
 print statements
 }
+
+method3{
+--------------
+}
