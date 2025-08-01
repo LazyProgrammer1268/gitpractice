@@ -1,2 +1,5 @@
 hello welocme 
 git practise 
+
+int a=10;
+int b=20;
