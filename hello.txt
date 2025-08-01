@@ -9,3 +9,7 @@ String name="hello";
 method1(){
 print statment
 }
+
+method2(){
+print statements
+}
